@@ -1,4 +1,4 @@
-I work across platform engineering, database systems, and developer tooling. Ten years across fintech, banking, and government, currently leading platform operations at Atlancis Technologies for Servernah, a multi-tenant OpenStack cloud.
+I work across platform engineering, database systems, and developer tooling. Slightly over ten years across fintech, banking, and government, currently leading platform operations at Atlancis Technologies for Servernah, a multi-tenant OpenStack cloud.
 
 **Active**
 
